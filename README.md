@@ -1,4 +1,4 @@
-# Forecasting_Financial_Statement_and_Valuation
+# Forecasting_Financial_Statement_and_Valuation: Capital Market Analysis
 The model forecasts the firm’s financial statements for five years and then discounts it projected dividends to estimate the value of the stock
 * The model uses publicly available information and private insights about the firm to forecast its financial statement and subsequent growth rates
 * Created 	pro forma financial statements using the percent of sales method 
